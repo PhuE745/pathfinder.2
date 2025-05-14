@@ -33,7 +33,7 @@
       <button type="submit" class="btn-login">Login</button>
 
       <div class="footer">
-        <p>Don't have an account? <a href="register.html">Sign up</a></p>
+        <p>Don't have an account? <a href="registerpage.php">Sign up</a></p>
         <p><a href="#">Forgot Password?</a></p>
       </div>
     </form>
